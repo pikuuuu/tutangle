@@ -1,0 +1,103 @@
+.container {
+   margin: 0 auto;
+   width: 1100px;
+}
+
+.header-wrapper {
+   /* background-color: red; */
+
+}
+
+.logo-searchbar-wrapper {
+   width: 800px;
+   float: left;
+}
+
+.logo-wrapper{
+   /* background: green; */
+   width: 300px;
+   float: left;
+   border: 1px dashed black;
+}
+
+.searchbar-wrapper{
+   /* background: pink; */
+   width: 500px;
+   float: right;
+   border: 1px dashed black;
+}
+
+.user-info-wrapper{
+   /* background: grey; */
+   width: 300px;
+   float:right;
+   border: 1px dashed black;
+}
+
+.navigation-bar-wrapper{
+   /* background: brown; */
+}
+
+.navbar-wrapper{
+   /* background: maroon; */
+   width: 600px;
+   float:left;
+   border: 1px dashed black;
+}
+
+.user-wrapper{
+   /* background:  orange; */
+   width: 500px;
+   float:right;
+   border: 1px dashed black;
+}
+
+.main-content-wrapper{
+   /* background: black; */
+}
+
+.left-child-wrapper{
+   /* background: magenta; */
+   width: 800px;
+   float:left;
+}
+
+.left-sidebar-wrapper{
+   /* background: yellow; */
+   width: 300px;
+   float: left;
+   border: 1px dashed black;
+}
+
+.middle-content-wrapper{
+   /* background: hotpink; */
+   width: 500px;
+   float: right;
+   border: 1px dashed black; 
+}
+
+.right-sidebar-wrapper{
+   /* background: firebrick; */
+   width: 300px;
+   float: right;
+   border: 1px dashed black;
+}
+
+.footer-wrapper{
+   /* background: rosybrown;
+    */
+}
+
+.right-footer-wrapper{
+   /* background: green; */
+   width: 550px;
+   float: right;
+   border: 1px dashed black;
+}
+
+.left-footer-wrapper{
+   /* background: pink; */
+   width:550px;
+   float: left;
+   border: 1px dashed black;
+}

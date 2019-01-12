@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <link rel="stylesheet" href="css/reset.css">
+   <title>Float test</title>
+   <style>
+      .container {
+         width: 100%;
+         background-color: blue;
+         
+      }
+      .child1 {
+         background-color: red;
+         float: left;
+         width: 45%;
+      }
+      .child2 {
+         background-color: green;
+         float: right;
+         width: 45%;
+      }
+   </style>
+</head>
+<body>
+   <div class="container clearfix">
+      parent
+      <div class="child1">
+         <p>child 1 text</p>
+      </div>
+      <div class="child2">
+         <p>child 2 text</p>
+      </div>
+   </div>
+</body>
+</html>
